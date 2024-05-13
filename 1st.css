@@ -1,0 +1,106 @@
+*{
+    background-color: pink}
+    .y{
+     background-color: #F98200;
+     height: 300px;
+     width: 600px;
+     margin-top: 200px;
+     margin-left: 450px;
+    
+    }
+    .blue{
+        background-color: #00569D;
+        height: 100px;
+        width: 600px;
+        position: relative;
+        top:50px;
+       
+    }
+    .red{
+        background-color: #E53A28;
+        height: 100px;
+        width: 600px;
+        position: relative;
+        top: 100px;
+      
+    }
+    .h1{
+        text-align: center;
+
+    }
+
+    .bl{
+        background-color: #8AC5E5;
+        height: 300px; 
+        width: 600px;
+      margin-top: 200px;
+      margin-left: 450px;
+    }
+    .w{
+        background-color: #FFFFFF;
+        height: 100px;
+        width: 600px;
+        position: relative;
+     top: 100px;
+    }
+    .sun{
+        height: 100px;
+        width: 100px;
+        position: relative;
+    margin-left: 250px;
+    background-color: #FEFEFE;
+    }
+    .ARGENTINA{
+        text-align: center;
+    }
+
+
+    .w1{ background-color:  #0064B2;
+        height: 300px;
+        width: 200px;
+        position: relative;
+
+
+    }
+    .bl1{ 
+        background-color:#FEFEFE;
+        height: 300px;
+        width: 600px;  
+        position: relative;
+margin-top: 200px;
+margin-left: 450px;
+border: 20px;
+border-color: grey;
+    }
+    .red1{
+        background-color: #ED1B24;
+        height: 150px;
+        width: 600px;
+        position: relative;
+        top: 150px;
+
+    }
+    .h3{
+        text-align: center;
+    }
+   .c1{
+    background-color: #0065B3;
+    height: 300px;
+    width: 200px;
+    margin-left: 450px;
+   }
+   .c2{
+    background-color: #FEF200;
+    height: 300px;
+    width: 200px;
+   margin-left: 200px;
+   }
+   .c3{
+    background-color: #ED1B24;
+    height: 300px;
+    width: 200px;
+    margin-left: 200px;
+   }
+   .Chad{
+    text-align: center;
+   }
